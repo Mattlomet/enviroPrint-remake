@@ -1,0 +1,46 @@
+.SignIn-tree{
+    position: absolute;
+    z-index:-1;
+    height: 50vw;
+    width: 60vw;
+    top: 1vw;
+    left: 18.5vw;
+    opacity: .5;
+}
+.SignIn-main{
+    background-color: rgb(255, 255, 255);
+    flex-wrap: wrap;
+    justify-content: space-around;
+    display: inline-block;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    box-shadow: 0px 1px 5px 0px black;
+    margin-top: 5vw;
+}
+.signin-header2{
+    font-size: 3vw;
+    color: rgba(255, 107, 0, 1);
+    font-family: 'Patrick Hand SC', cursive;
+}
+.button{
+    font-size: 1vw;
+    color: black;
+    border: 2px solid black;
+    font-family: 'Bubbler One', sans-serif;
+    background-color: rgb(201, 201, 201);
+}
+.input{
+    height: 2vw;
+    font-size: 1vw;
+    width: 11vw;
+    margin-bottom: 5px;
+}
+.app-header-sign-in{
+    font-size: 4vw;
+    color: rgba(255, 107, 0, 1);
+    font-family: 'Amatic SC', cursive;
+    border-bottom: 2px solid  rgba(255, 107, 0, 1);
+    display: inline;
+}

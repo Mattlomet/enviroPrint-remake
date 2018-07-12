@@ -1,0 +1,86 @@
+.hamburgerMenu{
+    margin-top: 7vw;
+    height: 5vw;
+    width: 5vw;
+    display: inline;
+    left: 0;
+    position: absolute;
+}
+.username-header-bar{
+    background-color: rgba(255, 255, 255, 1);
+    padding-bottom: 10vw;
+    margin-bottom: 2vw;
+    border: 3px solid white;
+    display: none;
+    top: 20vw;
+    right: 0vw;
+    padding: 1vw;
+}
+.margin-top{
+    margin-top: 7vw;
+}
+.username-header{
+    font-size: 5vw;
+    display: inline;
+    color: rgba(255, 107, 0, 1);
+    font-family: 'Amatic SC', cursive;
+}
+.save-your-data{
+    font-size: 1vw;
+    display: block;
+    font-family: 'Bubbler One', sans-serif;
+}
+.buttonprofile{
+    font-size: 1vw;
+    background-color: rgb(224, 224, 224);
+    border: 2px solid black;
+    display: inline;
+    font-family: 'Bubbler One', sans-serif;
+    padding: .5vw;
+
+}
+.profile-graphs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgba(200, 200, 200, 0.3);
+}
+.profile-bar-graph-over{
+    height: 25vw;
+    width: 48vw;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255,1);
+    margin-bottom: 4vw;
+    margin-top: 3vw;
+}
+.profile-bar-graph{
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255,1);
+}
+.profile-bar-graph-over h4{
+    font-family: 'Bubbler One', sans-serif;
+    font-size: 2vw;
+    margin: 0 auto;
+    margin-top: 1vw;
+    margin-bottom: 2vw;
+}
+.downArrow{
+    height: 9vw;
+    width: 9vw;
+    padding-left: 25vw;
+    padding-right: 25vw;
+}
+.profile-pie-graph{
+    height: 42vw;
+    width: 75vw;
+    background-color: rgba(255, 255, 255,1);
+    margin-bottom: 1vw;
+    margin-top: 1vw;
+}
+.profile-pie-graph h4{
+    font-family: 'Bubbler One', sans-serif;
+    font-size: 2vw;
+    margin: 0 auto;
+    margin-top: 1vw;
+    margin-bottom: 2vw;
+}
